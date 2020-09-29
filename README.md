@@ -1,25 +1,12 @@
-# Competitive-Programming-Club
+# Cloud-DevOps-Club
 
 ## About
-The CP Club is a technical organization of students in the campus of [Guru Ghasidas Vishwavidyalaya](http://www.ggu.ac.in/), that works under the parent community namely
-[Developer Student Clubs](https://dsc.community.dev/guru-ghasidas-vishwavidyalaya/)
+The Cloud & DevOps Club is a technical organization of students in the campus of [Guru Ghasidas Vishwavidyalaya](http://www.ggu.ac.in/), that works under the parent community namely [Developer Student Clubs](https://dsc.community.dev/guru-ghasidas-vishwavidyalaya/)
 
 ## Vision
-The Competitive Programming Club is a group of students who enjoy solving hard problems quickly with code. 
-The aim will be to meet on a regular basis to practice and learn together. The problems we will work on will also be highly applicable to technical job interviews. 
-The club’s objective is not teaching members how to code, but it is to help members to code efficiently and to teach them algorithms that can be used to achieve that goal.
-
-## Our Resources
-We will be using standard resources for doing CP problems and making regular contests, some of which are given below,
-* [Google CP Archive](https://codingcompetitions.withgoogle.com/kickstart/archive)
-* [HackerRank](https://www.hackerrank.com/)
-* [HackerEarth](https://www.hackerearth.com/)
-* [CodeChef](https://www.codechef.com/)
-* [CodeForces](https://codeforces.com/)
-* [CodeAbbey](https://www.codeabbey.com/)
-* [Sphere Online Judge](https://www.spoj.com/)
-* [URI Online Judge](https://www.urionlinejudge.com.br/)
-* [ICPC Archive](https://icpc.global/compete/problems)
+Cloud computing is the future and one of the most flamboyant technological developments witnessed in the field of technology. T
+he Cloud Computing & DevOps Club is a technology-based organization of members who share an enthusiasm for Cloud Computing. Our goal 
+is to provide an opportunity for students to explore cloud computing technology through fun and hands-on activities.
 
 ## Our upcoming events
 Hey Guys ❤, we are going to conduct the [Hacktober Fest-2020](https://hacktoberfest.digitalocean.com/). The entire contribution guidelines can be found here - [Hacktober fest contributions](https://github.com/Developer-Student-Clubs-GGV/Competitive-Programming-Club-Projects/blob/master/Hacktober%20Fest%202020/CONTRIBUTIONS.md)
